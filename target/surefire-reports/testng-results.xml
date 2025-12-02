@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-03T00:13:38 IST" name="Suite" finished-at="2025-12-03T00:13:47 IST" duration-ms="9242">
+    <groups>
+    </groups>
+    <test started-at="2025-12-03T00:13:38 IST" name="Test" finished-at="2025-12-03T00:13:47 IST" duration-ms="9242">
+      <class name="com.orange.testcases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orange.testcases.LoginTest@478190fc]" started-at="2025-12-03T00:13:38 IST" name="setUp" finished-at="2025-12-03T00:13:47 IST" duration-ms="8690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validation1()[pri:1, instance:com.orange.testcases.LoginTest@478190fc]" started-at="2025-12-03T00:13:47 IST" name="validation1" finished-at="2025-12-03T00:13:47 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation1 -->
+        <test-method signature="validation2()[pri:2, instance:com.orange.testcases.LoginTest@478190fc]" started-at="2025-12-03T00:13:47 IST" name="validation2" finished-at="2025-12-03T00:13:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orange.testcases.LoginTest@478190fc]" started-at="2025-12-03T00:13:47 IST" name="tearDown" finished-at="2025-12-03T00:13:47 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orange.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
