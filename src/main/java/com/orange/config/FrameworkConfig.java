@@ -7,5 +7,7 @@ public interface FrameworkConfig extends Config{
 	
 	String browser();
 	String appurl();
+	String testDataFilePath();
+	String testDataSheetName();
 
 }
