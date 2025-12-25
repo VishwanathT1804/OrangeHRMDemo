@@ -13,7 +13,7 @@ import java.util.Map;
 
 public class LoginTest extends BaseTest{
 
-
+	/*Need to complete*/
 
 	@Test(priority = 1)
 	public void validateLoginPageLoad() {
